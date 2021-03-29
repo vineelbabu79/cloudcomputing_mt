@@ -1,0 +1,60 @@
+body {
+    font-family: Calibri, Helvetica, sans-serif;
+}
+
+button {
+    background-color: #46a049;
+    width: 10%;
+    color: white;
+    padding: 10px;
+    margin: 7px 0px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.button10 {
+    background-color: #46a049;
+    width: 15%;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#dbutton {
+    background-color: #46a049;
+    width: 35%;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover{
+    border: 0.5px black;
+}
+
+form {
+    border: 3px #f1f1f1;
+}
+
+input[type=text], input[type=password] {
+    width: 20%;
+    margin: 8px 0;
+    padding: 10px 15px;
+    display: inline-block;
+    border: 2px solid green;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 25px;
+}
+
+.header {
+     color: white;
+     background-color: #46a049;
+}
